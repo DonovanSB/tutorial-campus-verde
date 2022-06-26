@@ -34,7 +34,7 @@ Descargar desde página oficial:
 
 https://git-scm.com/download/win
 
-![alt text](https://raw.githubusercontent.com/DovanSB/tutorial-campus-verde/main/images/download-git.png)
+![alt text](images/download-git.png)
 
 ##### Instalar Git bash
 
