@@ -34,7 +34,7 @@ Descargar desde página oficial:
 
 https://git-scm.com/download/win
 
-<img src="./images/download-git.png">
+<img src="./images/download-git.png?raw=true">
 
 ##### Instalar Git bash
 
